@@ -7,5 +7,5 @@
 <h2>Live</h2>
 
 <p>
-    Live preview of project is hosted at Github Pages of this repository at the link <a href="" target="_blank"></a>
+    Live preview of project is hosted at Github Pages of this repository at the link <a href="https://attrams.github.io/bootstrap-lesson/" target="_blank">https://attrams.github.io/bootstrap-lesson/</a>
 </p>
